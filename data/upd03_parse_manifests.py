@@ -9,6 +9,7 @@ import base64
 import ctypes
 import json
 import re
+import glob
 
 import config
 
@@ -213,7 +214,7 @@ def get_delta_data_for_manifest_file(manifest_path: Path, name: str):
     if not delta_path.exists():
         return None
 
-    delta_data_raw = delta_path.read_text()
+    delta_data_raw = delta_path.read_text(encoding='utf-8')
 
     delta_data = {}
     key_value = re.findall(r'^(\w+):(.*)$', delta_data_raw, re.MULTILINE)
@@ -460,22 +461,29 @@ def parse_manifests(manifests_dir: Path, output_dir: Path):
             json.dump(parsed, f, indent=4)
 
 
+# def main():
+#     with open(config.out_path.joinpath('updates.json')) as f:
+#         updates = json.load(f)
+
+#     for windows_version in updates:
+#         print(f'Processing Windows version {windows_version}:')
+
+#         for update_kb in updates[windows_version]:
+#             manifests_dir = config.out_path.joinpath('manifests', windows_version, update_kb)
+#             if manifests_dir.is_dir():
+#                 output_dir = config.out_path.joinpath('parsed', windows_version, update_kb)
+#                 parse_manifests(manifests_dir, output_dir)
+#                 print('  ' + update_kb)
+
+#     update_file_hashes()
+
 def main():
-    with open(config.out_path.joinpath('updates.json')) as f:
-        updates = json.load(f)
-
-    for windows_version in updates:
-        print(f'Processing Windows version {windows_version}:')
-
-        for update_kb in updates[windows_version]:
-            manifests_dir = config.out_path.joinpath('manifests', windows_version, update_kb)
-            if manifests_dir.is_dir():
-                output_dir = config.out_path.joinpath('parsed', windows_version, update_kb)
-                parse_manifests(manifests_dir, output_dir)
-                print('  ' + update_kb)
-
+    for kb in glob.glob("manifests/*"):
+        manifests_dir = Path(kb)
+        if manifests_dir.is_dir():
+            output_dir = config.out_path.joinpath('parsed', kb.split('\\')[1])
+            parse_manifests(manifests_dir, output_dir)
     update_file_hashes()
-
 
 if __name__ == '__main__':
     main()
