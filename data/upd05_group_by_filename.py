@@ -10,6 +10,7 @@ import re
 import config
 
 file_info_data = {}
+diff_data = {}
 
 
 def write_to_gzip_file(file, data):
@@ -331,6 +332,17 @@ def add_file_info_from_update(filename, output_dir, *,
             json_data = orjson.dumps(data)
 
         write_to_gzip_file(output_path, json_data)
+
+    if updated_file_info and updated_file_info.get("timestamp") and updated_file_info.get("virtualSize"):
+        y = diff_data.setdefault(filename, {})
+        y = y.setdefault(file_hash, {})
+        kb = set(y.setdefault("kb", []))
+        kb.add(update_kb)
+        y["kb"] = list(kb)
+
+        timestamp = updated_file_info["timestamp"]
+        virtualSize = updated_file_info["virtualSize"]
+        y["link"] = f"https://msdl.microsoft.com/download/symbols/{filename}/{timestamp:08x}{virtualSize:x}/{filename}"
 
 
 virustotal_info_cache = {}
@@ -724,10 +736,18 @@ def main(progress_state=None, time_to_stop=None):
     print('Processing data from VirusTotal')
     process_virustotal_data()
 
-    print('Processing data from ISO files')
-    process_iso_files()
+    # print('Processing data from ISO files')
+    # process_iso_files()
+    # write_all_file_info()
 
-    write_all_file_info()
+    filtered_data = {}
+    for k, v in diff_data.items():
+        if len(v.keys()) != 1:
+            filtered_data[k] = v
+
+
+    with open("diff_data.json", "w") as f:
+        json.dump(filtered_data, f)
 
 
 if __name__ == '__main__':
