@@ -6,7 +6,6 @@ import sys
 
 from delta_patch import unpack_null_differential_file
 import config
-from upd03_parse_manifests import parse_manifests, update_file_hashes
 
 # https://stackoverflow.com/a/44873382
 def sha256sum(filename):

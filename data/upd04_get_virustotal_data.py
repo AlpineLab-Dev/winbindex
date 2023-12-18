@@ -199,7 +199,7 @@ def main(time_to_stop=None):
     output_dir = config.out_path.joinpath('virustotal')
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    info_sources_path = config.out_path.joinpath('info_sources.json')
+    info_sources_path = config.out_path.joinpath('info_sources_mk2.json')
     if info_sources_path.is_file():
         with open(info_sources_path, 'r') as f:
             info_sources = json.load(f)
@@ -222,7 +222,7 @@ def main(time_to_stop=None):
     # Get names and hashes of all PE files without full information.
     names_and_hashes = []
     for name in info_sources.keys():
-        file_hashes = set(hash for hash in info_sources[name] if info_sources[name][hash] not in ['vt', 'file'])
+        file_hashes = set(hash for hash in info_sources[name] if info_sources[name][hash]["file_type"] not in ['vt', 'file'])
         if not file_hashes:
             continue
 
@@ -265,8 +265,8 @@ def main(time_to_stop=None):
 
     # Update status of files for which full information was found.
     for name, hash in result['found']:
-        assert info_sources[name][hash] not in ['vt', 'file']
-        info_sources[name][hash] = 'vt'
+        assert info_sources[name][hash]["file_type"] not in ['vt', 'file']
+        info_sources[name][hash]["file_type"] = 'vt'
         pending_for_file = info_progress_virustotal.setdefault('pending', {}).setdefault(name, [])
         if hash not in pending_for_file:
             pending_for_file.append(hash)
