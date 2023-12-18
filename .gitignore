@@ -3,7 +3,6 @@ manifests/
 parsed/
 virustotal/
 by_filename_compressed/
-diff_data.json
 info_progress_virustotal.json
 info_sources_mk2.json
 info_sources.json

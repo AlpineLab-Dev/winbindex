@@ -1,0 +1,2856 @@
+{
+  "aad.core.dll": {
+    "81e716de519e8c4fd7ac84c090d8c2223da52f7f84be1e066923783ac0af4aee": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/aad.core.dll/716c184c3ce000/aad.core.dll"
+    },
+    "ac2b7010f4701a017822b939520aa34aa679f69896f62fc39fbfcf6670e4c87e": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/aad.core.dll/d2a9c3573d1000/aad.core.dll"
+    }
+  },
+  "aad.core.winmd": {
+    "2904d6bf7a7fe165a202215600dea5b1bad0564b4e1bc6bd75b039a6778abb49": {
+      "kb": [
+        "kb5033118"
+      ]
+    },
+    "ef318a4d7a042baba6715a46b82b2b2f6ff6007fafc5691cf1a15739e288550d": {
+      "kb": [
+        "kb5032198"
+      ]
+    }
+  },
+  "aadtb.dll": {
+    "12427df4b7bd1622fee7714906ceba4ed758b8de12db104c7a5afe6e3fc02f1c": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/aadtb.dll/249b77cd13b000/aadtb.dll"
+    },
+    "5c8ff6db7cb759f9d9d79b328b2fe1fe8a2fa8a8307aae3faa3cc5e3b4e2389a": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/aadtb.dll/64a823d5176000/aadtb.dll"
+    },
+    "7015e50332b34f21f7077cf2f5231c708127ecdd2f7208f07c0354959ffc8f7b": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/aadtb.dll/b3e5548a13d000/aadtb.dll"
+    },
+    "82bf5b0cd6163dc0ccdb94ef8e84410a28c19159ad31660bf5944d3d0508f878": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/aadtb.dll/4bac523d172000/aadtb.dll"
+    }
+  },
+  "aaedge.dll": {
+    "4b228a7524381807c3d60a6b10e085c8c211500e3b192d7e4c8edbddfb8f460f": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/aaedge.dll/7954cff4d8000/aaedge.dll"
+    },
+    "960302ce3c6bc1633572d9a132b77619759a8fc864a75f15fc5171aba96a54be": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/aaedge.dll/7d41c620e2000/aaedge.dll"
+    }
+  },
+  "aatspp.dll": {
+    "0a1b1cdf2434129b11ce31ae662bcf5133d7bc4b58241cfaeeb13a83de703e79": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/aatspp.dll/055c90cb5e000/aatspp.dll"
+    },
+    "4217f617daa877cd2c41e1530dac9493f80bdd4b02c3130f049d518b9eaca758": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/aatspp.dll/055c90cb5e000/aatspp.dll"
+    }
+  },
+  "activationvdev.dll": {
+    "b1ebc2b97fc554d074342501d53c0525cacb369702892aeab0143776dd16b7ff": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/activationvdev.dll/d815877660000/activationvdev.dll"
+    },
+    "ed48ca87c97b8342a855bf10a27db6b75ac791a36de65a67d426a7b8ca956ae6": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/activationvdev.dll/4f4309ad60000/activationvdev.dll"
+    }
+  },
+  "advapi32.dll": {
+    "9f2305371492ec71f9ac83ee4923d0c649ff4c5fe77db20e19816e63e1ac6282": {
+      "kb": [
+        "kb5032198"
+      ]
+    },
+    "c4d08ae0091f556e96fc02b27635a94f989986b224d4cfb1cc991b9edf82366e": {
+      "kb": [
+        "kb5033118"
+      ]
+    }
+  },
+  "agentservice.exe": {
+    "2d10024a083445cd5ef509d2781e09829d2db975338a34b4570cccab9998809d": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/agentservice.exe/976b54a2123000/agentservice.exe"
+    },
+    "c1b368dcdb5d7eaf766e6c32f1925015518f482271e264ce5af2607eafba89ac": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/agentservice.exe/df0a9e67123000/agentservice.exe"
+    }
+  },
+  "applytrustoffline.exe": {
+    "7b93ea3f249c2a36e56ae4c5bcb6f709027aab352231a137a3b1e8d630e27301": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/applytrustoffline.exe/6e1ad7ee139000/applytrustoffline.exe"
+    },
+    "e0ad8bbf53177a21bb3e6354c42922c3644f2296aa02704004335e624e431e45": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/applytrustoffline.exe/e7521fff139000/applytrustoffline.exe"
+    }
+  },
+  "appmanmigrationplugin.dll": {
+    "03eedb2c90e23b2949b192b92d89955f7fee14589d16c1fd144700c1ce0eac36": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/appmanmigrationplugin.dll/1155dd1d128000/appmanmigrationplugin.dll"
+    },
+    "ab8e0d0b13eb05c27d84384f6b8b27dc38d90a0fe80e1e5c72821f4558f6723f": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/appmanmigrationplugin.dll/d0e334ad128000/appmanmigrationplugin.dll"
+    }
+  },
+  "appxdeploymentserver.dll": {
+    "15b0c10db687924f9a7d758398fd3702f9d0faff4d46a463d292f65bf04581ef": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/appxdeploymentserver.dll/338442be434000/appxdeploymentserver.dll"
+    },
+    "7fb96394f3a63e799ac4e3c44b008095b0be29001f804d7623efd1242306978b": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/appxdeploymentserver.dll/5574d7b0434000/appxdeploymentserver.dll"
+    }
+  },
+  "bootres.dll": {
+    "9da903f1cf229c3b665b300f27193e84e6eba1518654b8149e806965f2e7071c": {
+      "kb": [
+        "kb5032198"
+      ]
+    },
+    "c209ec5faaa564461df31f6eb1372bb98cffc7fe787f9438137d7edf7e40d69d": {
+      "kb": [
+        "kb5033118"
+      ]
+    }
+  },
+  "cdp.dll": {
+    "0275199276c3ac89f59cdbf6446fd2dde888dd419349b986761f4278c9f0b111": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/cdp.dll/dd7c6cfa503000/cdp.dll"
+    },
+    "0775e0e5c1d4cd81caefe6fe83c72a1b5bb8e8236d890d6728a4aeee3613c54f": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/cdp.dll/1c4b89af41a000/cdp.dll"
+    },
+    "73db3965203e3374c8456d15016d33dcfe38291f9e4f5b7411fdd03230bb3631": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/cdp.dll/799a426641a000/cdp.dll"
+    },
+    "d0e999f889d8383e512530f799d35123b7404a7b408800bdf7c340d613e4612f": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/cdp.dll/6b61975b503000/cdp.dll"
+    }
+  },
+  "chakra.dll": {
+    "46103ad63052822fcaff7c13c961819606d1936b7280cce2b57347a2eb048ad3": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/chakra.dll/65ef6f056d1000/chakra.dll"
+    },
+    "c7a5d48ac322cccda7808f12603fc7a2ab8cfdede7f857dbffda95cdfdd9e365": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/chakra.dll/402a5fc86d1000/chakra.dll"
+    }
+  },
+  "cldflt.sys": {
+    "4697682a2319c1b486965caebd4fa6d00df3b8342801f6bb6fc66641a8f59062": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/cldflt.sys/be0b34ee84000/cldflt.sys"
+    },
+    "ea5714aab411abbf8ec06cbda6884f5a9a46ab987700b6a1a418b9ab0f4d91d1": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/cldflt.sys/e105ea4684000/cldflt.sys"
+    }
+  },
+  "clusapi.dll": {
+    "063a4afba410897ddb533d105608abf1532a6db05fd6ebda28858087ddba4a13": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/clusapi.dll/9e71ddd2139000/clusapi.dll"
+    },
+    "631f0117ce2f5d5a4ddbe2d18bfb671c26e868fd7c7dbc734df8f76c583f265e": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/clusapi.dll/120528d1139000/clusapi.dll"
+    }
+  },
+  "clushealth.dll": {
+    "1633793a6e8ae43f71eb9b4b7295a9e0b73e88fa0a671fb2b515731ebc7ac510": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/clushealth.dll/9df3c6c2179000/clushealth.dll"
+    },
+    "2045a6e7dcd52775c12182cca49a552b4e4e5f4a0aefb737ddc1ff9892a55029": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/clushealth.dll/fbeb0dbc179000/clushealth.dll"
+    }
+  },
+  "clusmetrics.dll": {
+    "91793a2e8a3feeee120ff20372b51848350a748d8170edc7dc7155ad60ab7b5b": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/clusmetrics.dll/661fe52a93000/clusmetrics.dll"
+    },
+    "e21acc886b668c18c7c8b35319ea0acff3fff074667f6063527eb71529168cb2": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/clusmetrics.dll/c0ec443993000/clusmetrics.dll"
+    }
+  },
+  "clusres.dll": {
+    "6d0d9bbf12d47e894cf775cfe721e0ae7ab8f2a7f121820749026df04e8c6164": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/clusres.dll/20d70f0b42a000/clusres.dll"
+    },
+    "be372eeb865fadea709f981a163e7bfdb9507c10189d29b10e24af1612baf706": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/clusres.dll/de56dea942a000/clusres.dll"
+    }
+  },
+  "clussvc.exe": {
+    "4a67024620bbe0978c3ce05ed3dec6d4c5f4cfe61b53b68375264bdd5ff8a7f8": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/clussvc.exe/2a4ca815ca4000/clussvc.exe"
+    },
+    "930eb7f311ad2f5a3a4ef43d059db3e74500ab53504fe69cfebe268c3ac0a6b2": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/clussvc.exe/9fd3144fca4000/clussvc.exe"
+    }
+  },
+  "cluswmi.dll": {
+    "7d9fcf03906441e7f6c7e882ab65043cc669af02ca770902f6c08dac903f4266": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/cluswmi.dll/54772c2d1a8000/cluswmi.dll"
+    },
+    "b7af4a40f2f8cbdf3549dc5c7aeefdf6b0d87a2def1f5c0f83899e19f6b79af5": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/cluswmi.dll/0d15d3891a8000/cluswmi.dll"
+    }
+  },
+  "cluswmiext.dll": {
+    "0d18a01a2bfff95b8cbd16bca5e2057beb4ece18ec7b1671d69f90fa01fd44eb": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/cluswmiext.dll/008f298a1d1000/cluswmiext.dll"
+    },
+    "4cddea66d68867e1d96acf2af6ca9e208dec4bee191ea07ccd2ec7576b5380f8": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/cluswmiext.dll/53d8c49f1d1000/cluswmiext.dll"
+    }
+  },
+  "comctl32.dll": {
+    "7923485bf615fd7c4bfd30bc9c0d0087ccdf1a8f66e6f97f5aaae4d6fbbe013b": {
+      "kb": [
+        "kb5032198"
+      ]
+    },
+    "cf0a2f980d92a5ec074b1f0d2f88c178601c11409275c870e17f033cb1e8c3a4": {
+      "kb": [
+        "kb5033118"
+      ]
+    }
+  },
+  "comdlg32.dll": {
+    "0a64cdfc3563fbcafb997ac7f9beceb0ec14071df6a7140386fe38de8b9b6d8d": {
+      "kb": [
+        "kb5032198"
+      ]
+    },
+    "ab88dbe9a64bb9d41a70fbd6647d99b894bd8b22a8a54f8021f20b7f661088dd": {
+      "kb": [
+        "kb5033118"
+      ]
+    }
+  },
+  "comphealth.dll": {
+    "6d0a1d3a2719c04c0821cacc17069208a2285ed46c57a7df1a0c40b26a264b92": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/comphealth.dll/629b85dae7000/comphealth.dll"
+    },
+    "91d7f9cf6aef60c3742c55e1d0ccbd31ddb7395670d2d2eb5ed779b0ec38879e": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/comphealth.dll/46b09e2ce7000/comphealth.dll"
+    }
+  },
+  "corebootproxy.efi": {
+    "3eb9d0c3bba4786e56bcdb63ae159f013b01fa8571d5376cfb78672b8ce28229": {
+      "kb": [
+        "kb5033118"
+      ]
+    },
+    "91eaf8e024e906c7c5ed34fe927668bd02e7a2a7e13561229fea0b49ccf52d1a": {
+      "kb": [
+        "kb5032198"
+      ]
+    }
+  },
+  "coremessaging.dll": {
+    "07129aa9d2981a50df79d60c5ab20e1f3a8fd9aa0ab783320f5c3243f4f60dd6": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/coremessaging.dll/2cea9fc1126000/coremessaging.dll"
+    },
+    "0c93d0e055ba94b00d7cad8a17077ac230e71022d2f48bdbf2062c303556ac0f": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/coremessaging.dll/acc5a5e8c3000/coremessaging.dll"
+    },
+    "590b22ba79f5d1110e9c8a06aaf9567a005457199cf045b74b20293667eccf12": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/coremessaging.dll/57acec2e126000/coremessaging.dll"
+    },
+    "be40123908a5903f104d6792ce0750f151c64863ec2deeaedc8e5fa483eac96b": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/coremessaging.dll/07b12109c3000/coremessaging.dll"
+    }
+  },
+  "cryptui.dll": {
+    "45bbc9917eb3e30ce903e4b5a22da42a01527ee8d55f3b7f6f1f53e1756f6315": {
+      "kb": [
+        "kb5032198"
+      ]
+    },
+    "5b317e062e95ed7e25e8fb097c724a72d16be1d736bb4574554bd9b82975f568": {
+      "kb": [
+        "kb5033118"
+      ]
+    }
+  },
+  "daxexec.dll": {
+    "71be0f8b75884e5b0623d4c7e08c0e3af85603c1209aba4f2ea2a46d7c253a92": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/daxexec.dll/00fddc80a6000/daxexec.dll"
+    },
+    "f3422d795e7e34652a1a86f9c039e4cfbcf05c5f4c098d290d17e4ebf4eaba2c": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/daxexec.dll/cbcf5711a5000/daxexec.dll"
+    }
+  },
+  "dhcpssvc.dll": {
+    "b2835d898c46a21c7e69978949c6ab733f52946ed337ba42c1bddf6d1f823b2e": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/dhcpssvc.dll/b19f3b2a169000/dhcpssvc.dll"
+    },
+    "b68f5392907f08408f0eb952d9fc863a05bca4bfc4e0704bc642a9444ac88ca6": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/dhcpssvc.dll/df0ad46f16a000/dhcpssvc.dll"
+    }
+  },
+  "dmband.dll": {
+    "2af9ed0f9841cac9f71ec119fbd631a064ac5a003f80c2079d2cbf4e1adca44a": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/dmband.dll/7d904edac000/dmband.dll"
+    },
+    "d049f4a5cd512b87d3debfd3f31982403bcabdd62b6a7bc60eff765918dda974": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/dmband.dll/7d904edac000/dmband.dll"
+    }
+  },
+  "dmcompos.dll": {
+    "3e5ffaefe3822af46435abff88a2c079f99f63b1270958484040a637529c27c1": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/dmcompos.dll/908ce2ff15000/dmcompos.dll"
+    },
+    "d3495391978d5ff7300b310b8427d7e1f9d2aec3170e2cf0e0c3ad64a30ed0d8": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/dmcompos.dll/908ce2ff15000/dmcompos.dll"
+    }
+  },
+  "dmenrollengine.dll": {
+    "859590b7909df4e01976b64d281852b073b32f62032ea0e1babf3b0f1797cfae": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/dmenrollengine.dll/60df8244cb000/dmenrollengine.dll"
+    },
+    "9a4694facdfef723e4decfdbb553572713ecc4252e0ffdba0524ebf73a8bc2ee": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/dmenrollengine.dll/81912772cb000/dmenrollengine.dll"
+    }
+  },
+  "dmime.dll": {
+    "5ab35c8ecf41285757f4e3ae0835265af52595086fecc12d6ef7c90efaa99f3f": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/dmime.dll/c118d35038000/dmime.dll"
+    },
+    "f043d0708bb7bd041add1fcef5d9f4311c5e1b2715799f23cf44e6f50fa61713": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/dmime.dll/c118d35038000/dmime.dll"
+    }
+  },
+  "dmloader.dll": {
+    "12727c6fe605852c612bf8841863d3c792af2abb795ae0f8aad75bc8340a31e6": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/dmloader.dll/76541bb0e000/dmloader.dll"
+    },
+    "20b90bbdd2030cf3b97305f6c61b9b3aa4e91d1b76e0f10edce0c2874cfe5545": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/dmloader.dll/76541bb0e000/dmloader.dll"
+    },
+    "34d4d3d2bc205e3b010362a0388ee0bca1d3208f642c350bb00fa9f43f93db3c": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/dmloader.dll/feddbeb012000/dmloader.dll"
+    },
+    "80d239f94adf43a63db71df907ce9a5ea5e70d1d21d9d9b1a34199d0a827ad34": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/dmloader.dll/feddbeb012000/dmloader.dll"
+    }
+  },
+  "dmscript.dll": {
+    "2307f196222322eddef45582b340145d1b8f20cdb70004172605c1fa759d21dc": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/dmscript.dll/acb872ca1d000/dmscript.dll"
+    },
+    "b024a7133050818d189833918652eb27f2f4089a22f932c8dce0f4e40dcfaaf3": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/dmscript.dll/acb872ca1d000/dmscript.dll"
+    }
+  },
+  "dmstyle.dll": {
+    "0e2280ab9a02be6c2c07a083201456d1a95845c2440c130b499d718a1e4df2d5": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/dmstyle.dll/03275f7521000/dmstyle.dll"
+    },
+    "351232fb4378cbc5b09114c8cb5dd7550079fb407bac0bb38b8a44be86521c61": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/dmstyle.dll/03275f7521000/dmstyle.dll"
+    }
+  },
+  "dmsynth.dll": {
+    "3aa1feaa36283d537cd8a25e1bd35b680bddb9bfe028d7a4a7daee7ecd8ea9f2": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/dmsynth.dll/6e2d8fc824000/dmsynth.dll"
+    },
+    "a2fe1291c271b880540c69b2eb6f735df9043a6724f6ad41008f06e630fbf722": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/dmsynth.dll/6e2d8fc824000/dmsynth.dll"
+    },
+    "c0228576e38c816e5c4bee8df79fc842a4f8e07acad5222fbd9e423ab4100aca": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/dmsynth.dll/81b96c1221000/dmsynth.dll"
+    },
+    "f1b250e3db41b87e113f7b66333dc605f8f4788e3082b586fbd7e708e4b947e8": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/dmsynth.dll/81b96c1221000/dmsynth.dll"
+    }
+  },
+  "dmusic.dll": {
+    "4ed5dce97928b31c2e4dd3bf2a106a55048854a08f034564a475b0c55f617850": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/dmusic.dll/7bbea16231000/dmusic.dll"
+    },
+    "6fe1fa3edec8dc94ee3b043dda66f0f5d9fad0c64e27e708aefde51c3e10140e": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/dmusic.dll/e67e343c27000/dmusic.dll"
+    },
+    "a0417b656c9e62413e7d2b1c065cdccd382ab35cbfbd3446ce0d50e5afeb1502": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/dmusic.dll/99d04ab62c000/dmusic.dll"
+    },
+    "fa317dc36a15ce03ad423820a63b6e277f7d78c679a9292f5eba524ef6b1d049": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/dmusic.dll/861f28e123000/dmusic.dll"
+    }
+  },
+  "dmwmibridgeprov1.dll": {
+    "0ba212a062df8f44afbbb5aa79c31b8b6919c8d2ba9db51289e4b293ecfa36ef": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/dmwmibridgeprov1.dll/e74f8542e7000/dmwmibridgeprov1.dll"
+    },
+    "b53ebf91816563f00880d5755d65c28b864897bfb6beb91cceb75c27da611a12": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/dmwmibridgeprov1.dll/4af636cfe7000/dmwmibridgeprov1.dll"
+    }
+  },
+  "dns.exe": {
+    "093364f513abca961b1182d26b686023a3e1a55b0b17d557905f0fe5e85e6335": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/dns.exe/e65192a8260000/dns.exe"
+    },
+    "4e1d280e78940331b8eeeff6df95232eb450ea4b3c57b5649d6d8e74d89d1981": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/dns.exe/ee4db9c3260000/dns.exe"
+    }
+  },
+  "dpapisrv.dll": {
+    "36756bf3ecb90020145dbf2c4c80bbd8f5a715b8dfe4e329858f5c46fb1b6906": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/dpapisrv.dll/4302523c44000/dpapisrv.dll"
+    },
+    "e88428a2449a119a74acf9b39f1883b5ec1cd82d91162d47ab209bdd010a0dce": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/dpapisrv.dll/4996012a4a000/dpapisrv.dll"
+    }
+  },
+  "dswave.dll": {
+    "0393d8364ecf281c28d64ee83062674447bb1ea092a5d01841acfa5654125da9": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/dswave.dll/3240e73dc000/dswave.dll"
+    },
+    "0e031d3789063b6a0f4dc159d2964dac57b958d63a6334c9c929251114987c4f": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/dswave.dll/d93ff926a000/dswave.dll"
+    },
+    "45fe8c66eae4397b295fb383ddc243ded6cd402f744cbc36fbef02da0e1146e6": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/dswave.dll/d93ff926a000/dswave.dll"
+    },
+    "a66067c646cf7b5359a22361cec579e9f0ec01776d5aca0e625656ce09f905f6": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/dswave.dll/3240e73dc000/dswave.dll"
+    }
+  },
+  "dwmapi.dll": {
+    "5f1159f3842a5b9f17d5ef37271bca036bac09c1ba8200c572d83956627d3d42": {
+      "kb": [
+        "kb5033118"
+      ]
+    },
+    "fc551c782d75c4364c923ac521466d2d4a00ab07b59f23da6c591a9bbd0740b2": {
+      "kb": [
+        "kb5032198"
+      ]
+    }
+  },
+  "dxcore.dll": {
+    "235024b5bff2dea07468961659a64f6c7abec860bd50f86e5d6cdc91cb135c26": {
+      "kb": [
+        "kb5033118"
+      ]
+    },
+    "d07d252959b4747f88dac24a74c5a4b91dd3ee6144452bc9f085fb82850af308": {
+      "kb": [
+        "kb5032198"
+      ]
+    }
+  },
+  "edgeiso.dll": {
+    "22b4e535f8ed203e20d84a900d2cf6deba11b99fcb9a5c2db3ce73d39608933e": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/edgeiso.dll/14273aa568000/edgeiso.dll"
+    },
+    "4704f6e74785dbd2ca2fd30bd386be1677b35c139c1bfbf9deab781070fd88bc": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/edgeiso.dll/74e4655379000/edgeiso.dll"
+    },
+    "d48f1540fd7ab3549b08573c341a3560eaf5f1b44d75bc9e0f6ff6f3259692d9": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/edgeiso.dll/b1ad9ad979000/edgeiso.dll"
+    },
+    "e880ae250e2555404415a1b7cf93cd5c52a3eb3f08b4a24ab9a19a9c01c14ade": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/edgeiso.dll/88cfcbb268000/edgeiso.dll"
+    }
+  },
+  "explorerframe.dll": {
+    "162599b02f0fb543c63e51b1963a360a2bda8bead31c6f2d14f8227f636c2ef5": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/explorerframe.dll/d1046983191000/explorerframe.dll"
+    },
+    "3c93a7c00718b1fe73b7b60aa433486cbfb4e13650c35f9ab332871e9f6e2ec0": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/explorerframe.dll/466883a7191000/explorerframe.dll"
+    },
+    "a1e4fc369fb9ed19f269d24e9d2b74045f2c5ab7b62ec2ac7bbc22e5e7d78749": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/explorerframe.dll/0d9144d7237000/explorerframe.dll"
+    },
+    "c4d9a71c64e55e91d581b33f9014c76236f075651ae1546205d66cb4bdeb527f": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/explorerframe.dll/b3c17e00237000/explorerframe.dll"
+    }
+  },
+  "fclip.exe": {
+    "1b9d7f5d7bbaadeb2d94162e048c58c5819db47c9b9410981a939ee4aa2f9ec7": {
+      "kb": [
+        "kb5032198"
+      ]
+    },
+    "6c7713b0d0ebefa2ebdd2fcbce9bd6dad9cb65acf2158ead98c460daf64554ce": {
+      "kb": [
+        "kb5033118"
+      ]
+    }
+  },
+  "fntcache.dll": {
+    "1529801cbd05c8b052860776101bafcd65f33c53839f6b8c681a31fe34e7df75": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/fntcache.dll/89aa88e3157000/fntcache.dll"
+    },
+    "dd0e97a83c6f8d0c57fc7f8ac45ea32eb13f890b2587323b21a6ff5f16559fa6": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/fntcache.dll/f6d0187f157000/fntcache.dll"
+    }
+  },
+  "fontsub.dll": {
+    "969c919d3d545a53a058c3153da9ce81ad4fe800faaccdcbfc490f1390fde806": {
+      "kb": [
+        "kb5033118"
+      ]
+    },
+    "e62a792264b8255f42529bfa60528c90487bf13c562d1f24d317bcdc5337ef3e": {
+      "kb": [
+        "kb5032198"
+      ]
+    }
+  },
+  "gameinput.dll": {
+    "802698556224124d0de42e588b063b3a62c5444acb10a6a7fb29d128b6c3318b": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/gameinput.dll/c029ac5a16000/gameinput.dll"
+    },
+    "eb21d87343572be46847ac857feaf481837af4aa9047032e4e682649de15f04b": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/gameinput.dll/7b29923d16000/gameinput.dll"
+    }
+  },
+  "gdi32.dll": {
+    "a78332860a157e9e12bcccf53bb3d80b1400bbc528a8aad5e7a1347761717128": {
+      "kb": [
+        "kb5032198"
+      ]
+    },
+    "da9701ae4e77ec37523573d19e168c4380c8a3931f3113c53a2dc1df2c9e762b": {
+      "kb": [
+        "kb5033118"
+      ]
+    }
+  },
+  "gpapi.dll": {
+    "5b2d53eeb434f1310a12c8f8dd107907896eac842dee1ebff537b3023a8ac220": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/gpapi.dll/842a94be25000/gpapi.dll"
+    },
+    "8154a066e0043cd0bd07176329798548d1be2c899002a0e805ec939c45efd7f2": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/gpapi.dll/842a94be25000/gpapi.dll"
+    }
+  },
+  "gppref.dll": {
+    "db7776008dbdbd40fefbfb0e22c4d57cb29102c0cf464b3a4ceadbaa02ce6ab8": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/gppref.dll/7b87a5ed54e000/gppref.dll"
+    },
+    "e86d196607902d666695dbb67bad63df5faace667c228f6aa2cc43136297cc72": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/gppref.dll/ed3f6e1c54e000/gppref.dll"
+    }
+  },
+  "gpsvc.dll": {
+    "3436240a2bde796462dca50e6b9b18905132f347999af2ccf70a624f21ea6e81": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/gpsvc.dll/f488edf414c000/gpsvc.dll"
+    },
+    "7ab05746b1efb4b1b5dc1487274ea015d39db286db68fe7433d94607f9fa2418": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/gpsvc.dll/1b2cae1c14c000/gpsvc.dll"
+    }
+  },
+  "healthapi.dll": {
+    "864c37c3f7ddba1f43e1b6224d7cd19944bc944a975ee667dbb0852f3d1668ba": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/healthapi.dll/e797fb0813c000/healthapi.dll"
+    },
+    "d4dc23996d5cf029f7ec4b46412f05841779fcc2896eb2d7b6caa6d4d39c4bad": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/healthapi.dll/9c9d113213c000/healthapi.dll"
+    }
+  },
+  "healthres.dll": {
+    "a6da550875f0492cf87574eee77aaa6e6fd685a769a6797221ef0c0478a4e49a": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/healthres.dll/8401f779368000/healthres.dll"
+    },
+    "d5a6daa24af51693dbd15e90935d3cdb1121e5972fd7f82c697172690f98c552": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/healthres.dll/b36b5631368000/healthres.dll"
+    }
+  },
+  "hostnetsvc.dll": {
+    "47007fdf636cb0c3f751aee7a0d92d4aafc1a3e03ef59ddde04083d71ac5c3a7": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/hostnetsvc.dll/6da50da540a000/hostnetsvc.dll"
+    },
+    "e444c851d0b7787aca32346f4216c121dfdf77eac92c4dca9cfe140519c31d85": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/hostnetsvc.dll/cf7010b040a000/hostnetsvc.dll"
+    }
+  },
+  "hvax64.exe": {
+    "78bf78075042e4cf45a1b94297b3e0fc6d7e397a9072c5d18ecb567a68eb3148": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/hvax64.exe/dc831748402000/hvax64.exe"
+    },
+    "ce94b2411c53008c767e2df7fa53026f951a2160390ab329ae548e25ec3bb029": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/hvax64.exe/265e8afa402000/hvax64.exe"
+    }
+  },
+  "hvix64.exe": {
+    "0dfe59b5bad7def197e1bc3f95e89209504647144f4daf7aa4c89838620a7b1b": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/hvix64.exe/fe9b732d402000/hvix64.exe"
+    },
+    "19e430c375b4868a10701b8c48a3e840c4aeacd2298d9c52cb4bb6a9011e7680": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/hvix64.exe/34848873402000/hvix64.exe"
+    }
+  },
+  "icsunattend.exe": {
+    "024a55e1e137d0ac0a6ddcc59ca6d7b0404a0090ca902b809ff465c59c39118b": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/icsunattend.exe/1d063d919000/icsunattend.exe"
+    },
+    "cbb2750566bd53fb8b4bb2119a793f95c020bb9d7ca6e08c1869f7f728217ac5": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/icsunattend.exe/1d063d919000/icsunattend.exe"
+    }
+  },
+  "iertutil.dll": {
+    "4612a591e9677f17dede230da2ae6fca32189abb2b51f4d30efb8c20db975dcd": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/iertutil.dll/c389d56e230000/iertutil.dll"
+    },
+    "62dd68ad1b77d9485122e7c0fb6af373f63d2bbf867dadf50c5344de7f913b9f": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/iertutil.dll/7b7f10692b3000/iertutil.dll"
+    },
+    "a1c10c58811ad5eb53632c57c915cff43c0dd6c498a74b54f33045b15aa2a7fe": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/iertutil.dll/cf8be81d230000/iertutil.dll"
+    },
+    "d0b47891ae602dc2b6e869c2e8b1ba63570c8fbce762a9c72d954c25974ecb36": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/iertutil.dll/bdaef43d2b4000/iertutil.dll"
+    }
+  },
+  "imm32.dll": {
+    "a2eda33745897b16e2f06dd160da37d1adef2836a026e7bc426bcf5c8d8f1314": {
+      "kb": [
+        "kb5032198"
+      ]
+    },
+    "aae374d401ba8070363044bd67a93a0cd9310eda69fe5270151c8268bed24d61": {
+      "kb": [
+        "kb5033118"
+      ]
+    }
+  },
+  "inspectvhddialog.exe": {
+    "a4304a29d92714b5be98cd9107c5134f2f105a33eaaa37941420cc77d247e52d": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/inspectvhddialog.exe/e0b8d63132000/inspectvhddialog.exe"
+    }
+  },
+  "ipnathlp.dll": {
+    "4e408768a49015b789931b10f99273b8337c4731a89dc369ed7e15331074aa20": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/ipnathlp.dll/e43eb475a9000/ipnathlp.dll"
+    },
+    "88b2525145d43284ad6861edf8dd6522e4ef3f81dbca73a3a2f49f71b3f1fdee": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/ipnathlp.dll/5bfcc75ba0000/ipnathlp.dll"
+    }
+  },
+  "ism.dll": {
+    "4818dd7d4dd99f74bc69ae32610ea3b0efb9f97bfbdd155a204dc6799d01dfe2": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/ism.dll/708ed79c235000/ism.dll"
+    },
+    "5bb096e6e5c5259a7eb58ad1430d014da2f2843315bd4b4aada495a760ec6b0f": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/ism.dll/eb646bc1235000/ism.dll"
+    }
+  },
+  "jscript9.dll": {
+    "0227d140781b4037e3840fb7796b6fe3f46f49811f3ab4d5ce9866032da0e451": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/jscript9.dll/884af5d83ca000/jscript9.dll"
+    },
+    "5fbbdda96df84c31628d87b8226441291100c2f4e33fed7970e3a9f7ec362eed": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/jscript9.dll/f5d807763ca000/jscript9.dll"
+    },
+    "6cc4d541bbbae2ca85197a7c95831560cf3b9801549c146f395c666679a962cd": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/jscript9.dll/dd3e55ec4e3000/jscript9.dll"
+    },
+    "ab4f00dfc9f2ca08b2854ffba7633c703525df0a811392379c67b023d71fbe9c": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/jscript9.dll/81f89c184e3000/jscript9.dll"
+    }
+  },
+  "kdcsvc.dll": {
+    "2988592ab7b5cb524bbb3877382dae89a19a0da14a47489e5af8d4f1e325a4cf": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/kdcsvc.dll/5293d512ae000/kdcsvc.dll"
+    },
+    "30fa7706353fc87fcbf6f77d7f95ede2935a4a2122e580778e7b3c6edfa7e16f": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/kdcsvc.dll/2093a869af000/kdcsvc.dll"
+    }
+  },
+  "kernel32.dll": {
+    "3aa93c84e6eef554170bf4c80d63261c1c42457fcb279b858e7afb569842087e": {
+      "kb": [
+        "kb5033118"
+      ]
+    },
+    "67d769e1df5076a9a61ab21d340d3f186db130fa0211f3eb37736af1d95377f3": {
+      "kb": [
+        "kb5032198"
+      ]
+    }
+  },
+  "kernelbase.dll": {
+    "3f7ddb05cf1cd650474fc089c4001f4f18144fe063f98e6a39cdf636953bc571": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/kernelbase.dll/a0ab1013250000/kernelbase.dll"
+    },
+    "63749038b04a38044d4d0ebec59c5c7e1a9f038ad1f7d661a534bbf9df65c7f2": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/kernelbase.dll/8ed1062a250000/kernelbase.dll"
+    },
+    "b5a0cfff9701e65669416ee0a903fe578d0b61e522295f07bdd393995fcee90e": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/kernelbase.dll/a806275736f000/kernelbase.dll"
+    },
+    "fbc78581c062ca6d5b1f2c0ec85211214fc1efe86b39716606e7e3aa3ff8bc67": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/kernelbase.dll/7472090c36f000/kernelbase.dll"
+    }
+  },
+  "lxcore.sys": {
+    "3457de81a67976ae4297f01fca311fe0ff63ef80625ad0bcb40100da12114268": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/lxcore.sys/684b1f4e116000/lxcore.sys"
+    },
+    "9d1be7b50484c55e4417a1f44eb32ba627f8f4172ac81e2da635c737fc22b039": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/lxcore.sys/cd8137cc116000/lxcore.sys"
+    }
+  },
+  "lxssmanager.dll": {
+    "81abeeaac3a5970b87a11ac83d6ed5f06e043788c58fca1c1327bb9388713ecc": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/lxssmanager.dll/dfd858d5123000/lxssmanager.dll"
+    },
+    "9b7fe47ee5a93be91af0b9856875e0fe588b122cf61fb10223e667f184c74a2a": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/lxssmanager.dll/492a1fc0123000/lxssmanager.dll"
+    }
+  },
+  "mfcore.dll": {
+    "28242b607f276e1ac366f6bc18141e92c3fb1b02bd9d794a26fecbe7b8e02a0c": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/mfcore.dll/c6446f6c3ce000/mfcore.dll"
+    },
+    "98764528ec314eed224cf15ec07b4dd5dc0f540d63b012a3953ec979aa337c56": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/mfcore.dll/11d9058f3ce000/mfcore.dll"
+    }
+  },
+  "microsoft.aad.brokerplugin.exe": {
+    "236506a0fa8272c9a1d0fd7d4407222748eccf3cd1752d9de7410b146bcf6c3c": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/microsoft.aad.brokerplugin.exe/b01fd22639000/microsoft.aad.brokerplugin.exe"
+    },
+    "8730fecb6abc44a71b4619c0a199b7356c294748f26ff32ea92d7de5b563767a": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/microsoft.aad.brokerplugin.exe/b01fd22639000/microsoft.aad.brokerplugin.exe"
+    }
+  },
+  "microsoft.aad.brokerplugin.winmd": {
+    "219d07481e6ca54d1cc4533a9eb3c3a9fedc6a71e3b76b7c0c2c90968070de9a": {
+      "kb": [
+        "kb5033118"
+      ]
+    },
+    "47c98845250cc5f73072bf997122338ad9c348528996b1889ab76b7f7776c7e7": {
+      "kb": [
+        "kb5032198"
+      ]
+    }
+  },
+  "microsoft.msmq.activex.interop.dll": {
+    "16758169c90235984915f1369d30160b4e523a8f49fe07d17bd95e849de52393": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/microsoft.msmq.activex.interop.dll/6545d1111c000/microsoft.msmq.activex.interop.dll"
+    },
+    "1f317bd3ca76207b1f701b0535202707fb5d7692de3ffccc64a50fef9213b63c": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/microsoft.msmq.activex.interop.dll/65531a941c000/microsoft.msmq.activex.interop.dll"
+    },
+    "a3b5625fc9418190fc216d181383bc70544adfdcd993ae916d91fae0876cecc1": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/microsoft.msmq.activex.interop.dll/65530a101c000/microsoft.msmq.activex.interop.dll"
+    },
+    "de0551bf2cbcff2731091e6480735b203c9ed15b96198deff1bd8ad65dfbfbc1": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/microsoft.msmq.activex.interop.dll/6545dd581c000/microsoft.msmq.activex.interop.dll"
+    }
+  },
+  "microsoft.uev.agentwmi.dll": {
+    "16231cf673d7447cd5d5a082df4eaa0a54dd6f8cbdea71d3d7fbb44939c8166a": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/microsoft.uev.agentwmi.dll/0deaf76a118000/microsoft.uev.agentwmi.dll"
+    },
+    "5e620532aad492a4f11493f37c768b71c25d00386f4e43f5b633d07a7818a352": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/microsoft.uev.agentwmi.dll/63c4a70e118000/microsoft.uev.agentwmi.dll"
+    },
+    "80d99c6532c669a03c979b372e3eb93711b80a18269ce4fea01cf95421865489": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/microsoft.uev.agentwmi.dll/51acfdfe16d000/microsoft.uev.agentwmi.dll"
+    },
+    "a9b871dcaf676aa0c9cec4247b5915665b12895d25c0a205af8a1238a5dec472": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/microsoft.uev.agentwmi.dll/6b9781f316d000/microsoft.uev.agentwmi.dll"
+    }
+  },
+  "microsoft.uev.appagent.dll": {
+    "56a07cc82ec530bacc912e22ff7bcd7d2c1a4d286b1ff2e18c35394f631d65bd": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/microsoft.uev.appagent.dll/1acfbf1c1a8000/microsoft.uev.appagent.dll"
+    },
+    "78f2c9b225deb9b65b277c3525bbe66076ef1d91b88e249bfcf269c11412c612": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/microsoft.uev.appagent.dll/3b5068d5226000/microsoft.uev.appagent.dll"
+    },
+    "bcb40b34905e922afbe9bbe6ee0f70e00a79c259bccb981d6e5a889f19a584c9": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/microsoft.uev.appagent.dll/99e3be291a8000/microsoft.uev.appagent.dll"
+    },
+    "e53c83c7a72a64a1578941790d944ac77d6f9f3fe2e54886115ab2e28ed23eae": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/microsoft.uev.appagent.dll/cb9e0101226000/microsoft.uev.appagent.dll"
+    }
+  },
+  "microsoft.uev.commonbridge.dll": {
+    "537d8889fe0cd8dc38f3a41ac0b3504a794b74af6b6e4b7631c4e441a6eb6ed4": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/microsoft.uev.commonbridge.dll/1f52e212122000/microsoft.uev.commonbridge.dll"
+    },
+    "eb6864c87fd80ae82f8aa44b773795f7e732ce2f301b4f8c627f051523e18a45": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/microsoft.uev.commonbridge.dll/0aea5c7b122000/microsoft.uev.commonbridge.dll"
+    }
+  },
+  "microsoft.uev.modernappagent.dll": {
+    "1212975b4575cc944805bd470f18fc9a6c1c4a2de727603ea374f15048694f8b": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/microsoft.uev.modernappagent.dll/21be328e1fb000/microsoft.uev.modernappagent.dll"
+    },
+    "5046816d861d4da98eb1b07873ed705804de94a8fa6596b606873e81a80bc3fb": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/microsoft.uev.modernappagent.dll/a495e9601fb000/microsoft.uev.modernappagent.dll"
+    }
+  },
+  "microsoft.virtualization.client.common.dll": {
+    "22b0c7b64232851db9792fe53c1495cd278e921b49b7bc89e62b15a48a536c93": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/microsoft.virtualization.client.common.dll/a6b5e4f11e000/microsoft.virtualization.client.common.dll"
+    }
+  },
+  "microsoft.virtualization.client.dll": {
+    "ea3ddc8e01e4eebf491e2e5e019a4f0ed4ada76dc93811dcc18ffbd67a1e5c71": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/microsoft.virtualization.client.dll/8957aa7084000/microsoft.virtualization.client.dll"
+    }
+  },
+  "microsoft.virtualization.client.rdpclientaxhost.dll": {
+    "687f90bba7eaa270260ba877ea026c5533c30ccf915a62146cbf11b5f98ecfa0": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/microsoft.virtualization.client.rdpclientaxhost.dll/65531cbc66000/microsoft.virtualization.client.rdpclientaxhost.dll"
+    },
+    "f73704b286ea4b08cbbffc4bc13b96cfb7882563b3ecea2cf11e7bd49a46574a": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/microsoft.virtualization.client.rdpclientaxhost.dll/6545df8c66000/microsoft.virtualization.client.rdpclientaxhost.dll"
+    }
+  },
+  "microsoft.virtualization.client.settings.dll": {
+    "106b1e9d0c5a06e3a3f777cb5f6c4d72da7b679923ef2b0b3c4ff171945a0696": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/microsoft.virtualization.client.settings.dll/9eabe94c146000/microsoft.virtualization.client.settings.dll"
+    },
+    "9373fdbbb891f73a1dabf1f1d08f921a12a1cdb9660878c97dd7c5b0fd24aa24": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/microsoft.virtualization.client.settings.dll/b12bc9ce146000/microsoft.virtualization.client.settings.dll"
+    }
+  },
+  "microsoft.virtualization.client.vmbrowser.dll": {
+    "d73034bc04adedf689715b88cb867a34b7aec4c05c9d9e257a0b86e115c10ddb": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/microsoft.virtualization.client.vmbrowser.dll/a84b531c20e000/microsoft.virtualization.client.vmbrowser.dll"
+    }
+  },
+  "microsoft.virtualization.client.vmbrowser.resources.dll": {
+    "01f18984692cdfeb90cce73a0f97afa9148b4fb1000210c03e303395881865d7": {
+      "kb": [
+        "kb5033118"
+      ]
+    },
+    "0df9fd2952a9931b94b95087fdb32bccb9b4e3eb0126c9f04f3ae883b8c02fde": {
+      "kb": [
+        "kb5033118"
+      ]
+    },
+    "11811f60aec3d0afd28b19374a124e78cb76ad4ed78e9aee0b5c0f837f849140": {
+      "kb": [
+        "kb5033118"
+      ]
+    },
+    "2aa90ce19b9162ecc3fb3d8ab4a9fab525281fba4d2f39e34a332cd75233a210": {
+      "kb": [
+        "kb5033118"
+      ]
+    },
+    "2f2d2e2e658cd2601b06065003e38fe1802c72ccab04cd6f90105d32c9b7764a": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/microsoft.virtualization.client.vmbrowser.resources.dll/65531a291a0000/microsoft.virtualization.client.vmbrowser.resources.dll"
+    },
+    "321ad66162174441c9cf5418a483dbb53a6a2a60291cc2e3c48ca932f8b45d10": {
+      "kb": [
+        "kb5033118"
+      ]
+    },
+    "3371693ef25e67a57e54bf0f45f7d9b75cd1a1c8a481b9312e863600725f00e5": {
+      "kb": [
+        "kb5033118"
+      ]
+    },
+    "55aa69f08fc24ffaae9010afff58dba7d4de872bb8600a892c5fc66243b35460": {
+      "kb": [
+        "kb5033118"
+      ]
+    },
+    "5cf6b30ec3a0f7ed54035a8356fb9ef7ae6ef7164a6b830993227a989f13a8f8": {
+      "kb": [
+        "kb5033118"
+      ]
+    },
+    "641e934348cda488143f566fc7fd480186732314594502ef099e1ea9753a86f0": {
+      "kb": [
+        "kb5033118"
+      ]
+    },
+    "74a9bf8485a52275be705da2c2764dfdaf7dfc95b2c4d493edf8fabea44d523c": {
+      "kb": [
+        "kb5033118"
+      ]
+    },
+    "839eafaa5ca731e5f671355850ac90aba023e819110e08bae46e33127e2514e2": {
+      "kb": [
+        "kb5033118"
+      ]
+    },
+    "8778d18af6d0e39c946f709463a54ce9ab0643daac287fe5462aed88feabc26c": {
+      "kb": [
+        "kb5033118"
+      ]
+    },
+    "982b32b125fd26e7d5932525ad860d26736d520c6d98f0c342055866f37e8e8d": {
+      "kb": [
+        "kb5033118"
+      ]
+    },
+    "9b66431de780fc0a8ffac5fcca1237c501e940b249ba148f4e5de080a2c96e36": {
+      "kb": [
+        "kb5033118"
+      ]
+    },
+    "a4434d840a24d4eaee955858b6a54c2e8869d8206f87e698cd80327e1300f2c3": {
+      "kb": [
+        "kb5033118"
+      ]
+    },
+    "ab0614fb330a1d5d4c6db45778135f366cac4cd0a9af20e8e948090b604ba60a": {
+      "kb": [
+        "kb5033118"
+      ]
+    },
+    "b172d5afd9672dd447c5b73ba8b49ccd9d1e33c8d24595947697afa79a3e1fb5": {
+      "kb": [
+        "kb5033118"
+      ]
+    },
+    "bc6637c86bd79f2b13e6b33858356077820a2552d4edf2d30575f676ef995797": {
+      "kb": [
+        "kb5033118"
+      ]
+    },
+    "c245426780b24abbaca13b2bebc0f6b160b84e059b720061b8d8fde95787c7ed": {
+      "kb": [
+        "kb5033118"
+      ]
+    },
+    "ceb86763e0f99e3debbe9fcf3ab33c35f0c5e406c34069751ef2e78557624d21": {
+      "kb": [
+        "kb5033118"
+      ]
+    },
+    "d0b0ab333f4384e26118fec84e60c3a58647fb27befe5986ec5618834de74626": {
+      "kb": [
+        "kb5033118"
+      ]
+    }
+  },
+  "microsoft.virtualization.client.wizards.dll": {
+    "840c550e1fa4437c305048632fd80e905eedbd0e9f04df73bb90cd9b9a495d41": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/microsoft.virtualization.client.wizards.dll/f60187c41f8000/microsoft.virtualization.client.wizards.dll"
+    }
+  },
+  "mmc.exe": {
+    "51fda2af2b09ad74ccdedfa948f1844a137be6238b1e32e277f7e3db49427a62": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/mmc.exe/b1768cf11d8000/mmc.exe"
+    },
+    "63a791da20a2360ed32094ecc9ae62ba41597c352181586437b4dc8d328c3ee3": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/mmc.exe/8ceacac416f000/mmc.exe"
+    },
+    "cbae53a598651d37cde8c7b36e97c3af181c31f834c54e3edeb9aa545c76a90b": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/mmc.exe/373f1df21d8000/mmc.exe"
+    },
+    "f6f6f2dc0f395ed9061c8a87d5618f398aac6d535c33795a287d5d652ad345f8": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/mmc.exe/3023765016f000/mmc.exe"
+    }
+  },
+  "mprsnap.dll": {
+    "08aabc210156208d41b0717438f5ec5fb287cbfb26dee13e2516621afa9e6b59": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/mprsnap.dll/7f2428c114f000/mprsnap.dll"
+    },
+    "2b034ae3eecc373a8b9ff985544bbc501a5469f7daa67b299825ee6714f9a07c": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/mprsnap.dll/2904195614f000/mprsnap.dll"
+    }
+  },
+  "mshtml.dll": {
+    "2ae8a71005430bda72a145fe2415c1732ef6eeab4e0f4226eb856a8996a5e07b": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/mshtml.dll/95c0fabc1278000/mshtml.dll"
+    },
+    "ae0ff36c3f0aef515e3dc63ef6884f3321bf8cdfa47261ecf59511cc64f5c2fc": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/mshtml.dll/ce4828f9169a000/mshtml.dll"
+    },
+    "c7e7f3c23d9eff7db84dc14df28febf8d38790c0610c2d8f368a5d3a9873da1c": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/mshtml.dll/a0826056169a000/mshtml.dll"
+    },
+    "cfea30c0ba2307084989f52e9c6e5a3b5e66575121f129a239c0923a34eee3ae": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/mshtml.dll/f25bf3c81278000/mshtml.dll"
+    }
+  },
+  "msiso.dll": {
+    "21d26b43a736254566e96321aab840ac0cea707cd184eaa55d82d99e2789cfa0": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/msiso.dll/22fc78573b000/msiso.dll"
+    },
+    "2777d197a29c5d5ac2a89bdc2b60005a1febcce372a9f9e8a1251dc89e1d503a": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/msiso.dll/df3149d33b000/msiso.dll"
+    },
+    "2b6eb68c1c73d2c2f86547fcdfdb9b5d3fff63875cd5e097e046ea20e01b0273": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/msiso.dll/7249a68949000/msiso.dll"
+    },
+    "31ff549edd8dda0bb0219521041399be45f7b3ec2a36115f88568d3ff4d5feae": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/msiso.dll/278b0d2549000/msiso.dll"
+    }
+  },
+  "msmpeg2vdec.dll": {
+    "104a48b692c76de0ee1ddf22471d1f92788f3b468ebb1bc3c619767d04bfeac3": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/msmpeg2vdec.dll/36633b68283000/msmpeg2vdec.dll"
+    },
+    "35dbd429abe954eeeded5568b4219ef94383d73ea501e7e0769ad9e074c14e05": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/msmpeg2vdec.dll/d452fc27283000/msmpeg2vdec.dll"
+    }
+  },
+  "mssecflt.sys": {
+    "180c0a9d0017291ae4a1672008bac5ad87ae96885e04d004fa4c2ba12efd6871": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/mssecflt.sys/f4b9dae963000/mssecflt.sys"
+    },
+    "259be60290e757e32dcecddfbe535024f5c80f8aa9936a354efd555164af61f5": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/mssecflt.sys/717b427463000/mssecflt.sys"
+    }
+  },
+  "mssense.dll": {
+    "d0dcd08b445044303be86d5e6b445e635197c281e155ad26e677a3cb6dcbbe8c": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/mssense.dll/262293b4af5000/mssense.dll"
+    },
+    "eb8d5cfc7331b0fed4cd0bbce3931343c92527689c027ac9ed20252c264ae7f2": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/mssense.dll/75cf5f78af5000/mssense.dll"
+    }
+  },
+  "mssense.exe": {
+    "1a8e9aa827817052ebda86730142f3464580ccf6b887ecfa886cab7044c628c6": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/mssense.exe/cf48d48481000/mssense.exe"
+    },
+    "d9b04562cbb441fcc82ec9538702fcc3e1bab1b2e9bffa0957e9ae2abf39a913": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/mssense.exe/30d3688481000/mssense.exe"
+    }
+  },
+  "mstscax.dll": {
+    "2583e335e44f9fa2ab11041afac2f73a19492110c1ec1f3d71aaefcf8109f062": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/mstscax.dll/bd09b485751000/mstscax.dll"
+    },
+    "a8512a2509a24d0a98276f817bd2f9ea9e003dda9fcbbd45dda5997454650533": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/mstscax.dll/52044cdc8a9000/mstscax.dll"
+    },
+    "b0165bdbcf4301aa5660da48f24341908e8e3a7a027a5e2db3d4e93969e0a831": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/mstscax.dll/292c912e8a5000/mstscax.dll"
+    },
+    "c94854db45616165d3132c8b819d2fe53d04a4d2baecfbba6bd61715ee6929a7": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/mstscax.dll/5819b98374d000/mstscax.dll"
+    }
+  },
+  "ncrypt.dll": {
+    "04df1a71bfb3a937e0bf5de01fd3a97491524711e9b9071080beab31d4e79e46": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/ncrypt.dll/d59c5e842f000/ncrypt.dll"
+    },
+    "24acde9e825d7978741e5c6560656bcc76b4b77305cf1e5efc28115b5b6dce8b": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/ncrypt.dll/d59c5e842f000/ncrypt.dll"
+    },
+    "db2f872888a58f953be69c6d117f841a7cfe15f75350d744d464bf06095fdc0a": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/ncrypt.dll/2c53157e26000/ncrypt.dll"
+    },
+    "e4b875dfa8829b60ff41714d9824b2efa6541a47c7074e1c12c24996b446590b": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/ncrypt.dll/2c53157e26000/ncrypt.dll"
+    }
+  },
+  "ncryptprov.dll": {
+    "0284d49ec31d39ffdb9ab0f15ac4ad031493c6b3c550f3dc45b593c611d8a122": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/ncryptprov.dll/47c7348b62000/ncryptprov.dll"
+    },
+    "06eba905c781291e3b46e10088f972b8ffde72b1740e4909740e1593f4b5d7eb": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/ncryptprov.dll/0fa6b26662000/ncryptprov.dll"
+    },
+    "4034a99efba797da6a24372dd80153cd6039adc4c1d9f66e4654b57a623657e2": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/ncryptprov.dll/05c775ec78000/ncryptprov.dll"
+    },
+    "f3be4769290b283e44e6d74882a27bf2834babee1ce2397eb35c26b8553394ff": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/ncryptprov.dll/aea707ba78000/ncryptprov.dll"
+    }
+  },
+  "ntkrla57.exe": {
+    "97971051c09013e0fc4dbaf958d0a808e18847d1d10dbde893290f419b27d01a": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/ntkrla57.exe/f11eeec41042000/ntkrla57.exe"
+    },
+    "c93a425e971b972a272f621daba39139f5ec20bad9980a463f4810d17da5c9be": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/ntkrla57.exe/de3ea2bd1042000/ntkrla57.exe"
+    }
+  },
+  "ntoskrnl.exe": {
+    "5853f8404826fcc514f1efc098fb46fea18e994f42410c64735f52eb02e5c814": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/ntoskrnl.exe/9729528b1047000/ntoskrnl.exe"
+    },
+    "836de740411f037e211b21214db95f5728a4068df37ae9cefc60931213d6abb9": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/ntoskrnl.exe/3b845e5d1047000/ntoskrnl.exe"
+    }
+  },
+  "ole32.dll": {
+    "b5c31149b6234aaa7a4042b388c80af41c3a426134a4491389b5017327eb40df": {
+      "kb": [
+        "kb5033118"
+      ]
+    },
+    "f95e11982319a47a22fefe56e5763d8abc45e1d64b3ae0f075796a1bc4200bc6": {
+      "kb": [
+        "kb5032198"
+      ]
+    }
+  },
+  "oleacc.dll": {
+    "1ccaa26e08db9e415e740681a0822bcffec56665d54d99b84988f495ae4efd0c": {
+      "kb": [
+        "kb5032198"
+      ]
+    },
+    "8d02bb5ec48a64a9a8c11746ab2d34cd86bef841370ef900e6c3bcf2b6bfbb24": {
+      "kb": [
+        "kb5033118"
+      ]
+    }
+  },
+  "perceptiondevice.dll": {
+    "6d302ee38a2a31898feaf6911de4b16b8e7db5d897ed23109be8746ec8dc1be7": {
+      "kb": [
+        "kb5033118"
+      ]
+    },
+    "6f6ef298372334019a6eea5bd166e423344daeeff32a4306fdd412ed81ac3586": {
+      "kb": [
+        "kb5032198"
+      ]
+    }
+  },
+  "perfhealth.dll": {
+    "5d672f6a30dd4a9705552fa37012c4016788f316b92aff2376b1bbe06f25fd6c": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/perfhealth.dll/7d9b9832152000/perfhealth.dll"
+    },
+    "7765445580c5abb58e6756a20951c46d6da53de9f8b95ec72f3dd534b2b7fbfa": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/perfhealth.dll/0fb6bb12152000/perfhealth.dll"
+    }
+  },
+  "prntvpt.dll": {
+    "37c9343e2c05adea9b6c6a4d17b55fed573fed18b80a10adf5905ff0d461b097": {
+      "kb": [
+        "kb5033118"
+      ]
+    },
+    "bf2af022aa0681eca921b0da2ac173f5bcd3b072b60ff2f26f86ad86bff5e3db": {
+      "kb": [
+        "kb5032198"
+      ]
+    }
+  },
+  "psapi.dll": {
+    "443352e736ffddaa57c14f202c057d6326a05a8759775467acb5535047ae77a5": {
+      "kb": [
+        "kb5032198"
+      ]
+    },
+    "a978550f0f29447175307f2d584fd032bc60d198ce366e0ff746f7a6ebbcefcd": {
+      "kb": [
+        "kb5033118"
+      ]
+    }
+  },
+  "rhs.exe": {
+    "09f6c1e62be6e916dfb7e46e134c828d9292677be9490e1c97e66fea7b3cc6b7": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/rhs.exe/b89e4580124000/rhs.exe"
+    },
+    "6ac84e478cbdc513900e302aa273d93ab58975d6651d043f947ce372bc5406ea": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/rhs.exe/0e67ab98124000/rhs.exe"
+    }
+  },
+  "rstrtmgr.dll": {
+    "70f8deb5573d6ba36ccab4f4b05de5164e28da89082ccefc9cfb4877b0871cab": {
+      "kb": [
+        "kb5033118"
+      ]
+    },
+    "c58babdce81ed7cce9e345dc7bec4e113cbdace689c245f77b667450f0f2e1db": {
+      "kb": [
+        "kb5032198"
+      ]
+    }
+  },
+  "runpsscript.dll": {
+    "7241b3c1bf319605b114f00bdf53345da012b83aed525250925938caec10cdd4": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/runpsscript.dll/924d2a1416d000/runpsscript.dll"
+    },
+    "89c227c77eedd044a4c5225e68713d8b47b003379729666fc77265ffe26b09b3": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/runpsscript.dll/87a1287c16f000/runpsscript.dll"
+    }
+  },
+  "sddcprov.dll": {
+    "903b78d21f88be792862fb884fdee29a6f7e631391cf36060e0a986252453a9b": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/sddcprov.dll/d5f8600a19f000/sddcprov.dll"
+    },
+    "edfc0ad933a406d6d0f2fa657d7e7e5b5fe7887455ea0b0cd746a0eb828cc650": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/sddcprov.dll/271ea53619f000/sddcprov.dll"
+    }
+  },
+  "sddcres.dll": {
+    "af9467b414e193200416b00905eabbaa5e8c8d9f6c052fcfc748de8e65636dd4": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/sddcres.dll/ed71d7e722c000/sddcres.dll"
+    },
+    "f6412f0548ec3f9c9e07d8a022195ee3095fc56dd3a49e80fc3e22bae94a0cc7": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/sddcres.dll/880c56ec22c000/sddcres.dll"
+    }
+  },
+  "secconfig.efi": {
+    "205a0066301dbe9a5f76e5ea91b96a9fdcf67ec524dc311f48d9515e6e807b87": {
+      "kb": [
+        "kb5033118"
+      ]
+    },
+    "dcb2e031fcbc91d536dcf52a369d2caaa1f893864959312428daae9fb46c407a": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/secconfig.efi/6081f67c1f3000/secconfig.efi"
+    }
+  },
+  "secproc_isv.dll": {
+    "54282d121cba291e223f18ceef21c819a7a131888ec511ad800568eb1924e10c": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/secproc_isv.dll/cbc799015b000/secproc_isv.dll"
+    },
+    "7831f2c1bf770c05f28294f29d41bf388adcb06f5c38b298094164664fe57dce": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/secproc_isv.dll/b30d606a5b000/secproc_isv.dll"
+    }
+  },
+  "secur32.dll": {
+    "b9aa1a0c3fec56267e79e980a9f72d51fc2a8678a79b704497bb8ef7ae6391ee": {
+      "kb": [
+        "kb5032198"
+      ]
+    },
+    "e7ed2e26216ad940cc44cc9113691e483fe04cd3a915992ecef23133469003bb": {
+      "kb": [
+        "kb5033118"
+      ]
+    }
+  },
+  "securebootencodeuefi.exe": {
+    "4133b0eef6a150de0dd732e57a20b98f06a7e9361057b4cd4a37a6ee5999612f": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/securebootencodeuefi.exe/f25d144719000/securebootencodeuefi.exe"
+    },
+    "9e2e963bd9b6606ee8e071e0044d61d88474e3aeb780392a1f3e4b04acc96ef8": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/securebootencodeuefi.exe/f25d144719000/securebootencodeuefi.exe"
+    }
+  },
+  "sensece.exe": {
+    "538824c3f9ac117527ca3c361549357a488bd3de4e9dbd43607cda523d947f14": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/sensece.exe/0736586a1f0000/sensece.exe"
+    },
+    "91f6ea73c0a849dc1cdce652a2c12fef569e010b3feeb952d4750b331675f1a3": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/sensece.exe/094e209e1f2000/sensece.exe"
+    }
+  },
+  "sensegpparser.exe": {
+    "a014677f9ad5d91ef3cf7220d165a5ad0249e4eba4742040595e13519933b63e": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/sensegpparser.exe/79b8eed86d000/sensegpparser.exe"
+    },
+    "b69ef9ac62c66358ac588072a492a94a29e9ce122eac47e0f501783e47766c25": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/sensegpparser.exe/50ed8b856d000/sensegpparser.exe"
+    }
+  },
+  "senseimdscollector.exe": {
+    "379806e5fb073f421e9ef8df355193b37570af7e24e2a6e4cf4cbec33c4c5d2a": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/senseimdscollector.exe/44436d4ad6000/senseimdscollector.exe"
+    },
+    "a16ab43a706b812bac74d8e0bfbeed135a9a4186e4d34c193c5c9acd638f3c22": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/senseimdscollector.exe/03176ba1d6000/senseimdscollector.exe"
+    }
+  },
+  "senseir.exe": {
+    "28c585d7e320167f371707fdd39096950bfa9d92b645385d1686efd348c77ad0": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/senseir.exe/96604aee5a2000/senseir.exe"
+    },
+    "5bc93b837c515e89ae2dfbac334ae7b12e0f040ba8d9472cdb376cc6a8e358e3": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/senseir.exe/5ad9a13a5a2000/senseir.exe"
+    }
+  },
+  "sensemirror.dll": {
+    "888d1f4747b813e6312a1925b132b529a9df27dfae3b5d2f15e8d416283baec1": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/sensemirror.dll/81aecab357000/sensemirror.dll"
+    },
+    "b6734697cfc9db526fbdc883b9c2fe6c20dd34b395b422a8096bb83f0a702eb8": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/sensemirror.dll/1767946957000/sensemirror.dll"
+    }
+  },
+  "sensendr.exe": {
+    "4d7898663da534f44961411902fe78039c49d6bcf92fe6c7d10394e20bc26545": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/sensendr.exe/7821f2a7d63000/sensendr.exe"
+    },
+    "e30743297a918e3d2cdb2b039cb617e6f21c5ab48d295761cef03d379b8f9709": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/sensendr.exe/7821f2a7d63000/sensendr.exe"
+    }
+  },
+  "sensesampleuploader.exe": {
+    "27eed35b0bc3dd41ff8bbb6d6769612cc6ae252a06dcdc8353bc45dfbab7282c": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/sensesampleuploader.exe/6f4c643520a000/sensesampleuploader.exe"
+    },
+    "6d71182c53a563184233dd1cbe0950f6e82961dbff787dd03635cb9b31693b89": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/sensesampleuploader.exe/e5ca854d20a000/sensesampleuploader.exe"
+    }
+  },
+  "sensetvm.exe": {
+    "59f3df0fa85fa6f370bd9f7ab2bec97c6ed6b9869f35998f683f93f939ddd418": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/sensetvm.exe/64b3b318260000/sensetvm.exe"
+    },
+    "7c3deab987e2271e88c83237f4f380324bdf574a8c9f15a2480b94124f215290": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/sensetvm.exe/64b3b318260000/sensetvm.exe"
+    }
+  },
+  "settingshandlers_nt.dll": {
+    "10e16ed2ce47b319a4a911af423d0539209448d80643907e1ef7b28805587647": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/settingshandlers_nt.dll/29552ec6345000/settingshandlers_nt.dll"
+    },
+    "c35c2a65b54ccfbf4044a9628d5aeb2b9e853243ac8c955f4a85d5ae25d4973e": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/settingshandlers_nt.dll/b4c1081c345000/settingshandlers_nt.dll"
+    }
+  },
+  "setupapi.dll": {
+    "001591601bbf921fb03c60e1c115b905355d9d72f82cb70cba6be2e14fbbfc29": {
+      "kb": [
+        "kb5032198"
+      ]
+    },
+    "d5ea18e72759431838d7745f283eb7668a4205dfd0cbb677c1b1a766a86a8113": {
+      "kb": [
+        "kb5033118"
+      ]
+    }
+  },
+  "shell32.dll": {
+    "0584262c63758ed51cbddb90a0a7fc97544cfa20ac819c9dd48ee74d00494969": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/shell32.dll/0a8aa3045d6000/shell32.dll"
+    },
+    "1885aca6be954f81f7f260e11e63e5f4dc7794987d65bc2a832f88ec79e6856e": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/shell32.dll/1b962ba275a000/shell32.dll"
+    },
+    "32ec805b80228970838c754d1badcd16b0cf0338f261508bbac8e6af5081df6d": {
+      "kb": [
+        "kb5032198"
+      ]
+    },
+    "382d5188bbe6ba1bc4f8ab249546897c9aa505124e5215fd16eaddccc73045d9": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/shell32.dll/8cea4ec75d6000/shell32.dll"
+    },
+    "c967223be75afd86ce617424f910de3bdee2452b2417b5cf40a8a2b176dba32f": {
+      "kb": [
+        "kb5033118"
+      ]
+    },
+    "f779a2088da82adb0b537d26ee18e18afa34ffcda65bedf79377992294ac914a": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/shell32.dll/8c19b12275a000/shell32.dll"
+    }
+  },
+  "shlwapi.dll": {
+    "70bf6066c27d8fa1f9e5da683a0bbb04e89c4702d7840d40009b51eaa28144b1": {
+      "kb": [
+        "kb5032198"
+      ]
+    },
+    "be4147c5b831e45bedd80e97620d61e9578b40bd1333101fbff654af07ee8cfc": {
+      "kb": [
+        "kb5033118"
+      ]
+    }
+  },
+  "sppcext.dll": {
+    "1b78e452093cd1fd5f907d77d5cd5e76869015840df91ea65b2e4f00dc6e7e6c": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/sppcext.dll/e998bff98b000/sppcext.dll"
+    },
+    "7ed80ff8a47e811771883c8531b76430cb726c08a3bc9241c499c214f6d7cd24": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/sppcext.dll/8476f90797000/sppcext.dll"
+    },
+    "a41db0f16092a8c6dcfbf30d61826751556c56b0409155f73d28d2686c410579": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/sppcext.dll/dd63a38e8b000/sppcext.dll"
+    },
+    "bb8820a0da22397356bed610dfecce135620a1b29ad3a6a3e0d63583e8b249fc": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/sppcext.dll/9256a43297000/sppcext.dll"
+    }
+  },
+  "sppobjs.dll": {
+    "9d0afef99f896b5e927c675718720d4cf26a5459d93789bac700cac80568afa4": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/sppobjs.dll/6553281d1ad000/sppobjs.dll"
+    },
+    "d320f24dc57779dd0a72b45b4aef343e1d38d4907ad7e1dd814db31706f32c28": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/sppobjs.dll/6545eb891ad000/sppobjs.dll"
+    }
+  },
+  "sppsvc.exe": {
+    "84c9eb109841abb6d701bc8e702f106cce0db66fb093aa35e95fbc7bd7d0381b": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/sppsvc.exe/a3f9dd4d479000/sppsvc.exe"
+    },
+    "f498a7c3f1f42d7f358c5eb99610c091a567d5ea458e87f51d03c4c2c87840c4": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/sppsvc.exe/b6332417479000/sppsvc.exe"
+    }
+  },
+  "sqloledb.dll": {
+    "437298b7005b657ce81e42ad1253588623f214ce14a37afeafd71a3cafd88901": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/sqloledb.dll/2edaab6dcc000/sqloledb.dll"
+    },
+    "63747e5add0f908056ae410d7241259d930445e8d8a3dee1bd740b7316e42e4a": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/sqloledb.dll/27dfb05ec4000/sqloledb.dll"
+    },
+    "e617573e27c3c4e14b9b61cf4ff70ab79d59824529666ef7a8913002cf9d471f": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/sqloledb.dll/4871bfc1de000/sqloledb.dll"
+    },
+    "fcff267165adfa3e141d0f0c428450744f5525620847e0f403574bec8a974ec8": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/sqloledb.dll/6669216ee9000/sqloledb.dll"
+    }
+  },
+  "sqlsrv32.dll": {
+    "0536e58e85d77419a83a5dacfb355f0c2d9b4b9a0cd5ac3ebe520f8acfdbb169": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/sqlsrv32.dll/279a0b55ae000/sqlsrv32.dll"
+    },
+    "0faf919bcce70d51efde3e34e3f5fba5ed593a4840ab52fbeb48efd8ebf740d1": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/sqlsrv32.dll/322b1ca8af000/sqlsrv32.dll"
+    },
+    "272ef86533befa4bc95da5777d2c33af349aa2f22ff1f60b9aaf3f9cad0862ee": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/sqlsrv32.dll/e2212d37bf000/sqlsrv32.dll"
+    },
+    "282277aae4938f4c9bba4612444b1cd15a82448379caae5970c6539758e43798": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/sqlsrv32.dll/5c0eeb83bf000/sqlsrv32.dll"
+    }
+  },
+  "srhealth.dll": {
+    "cbf6826ead36d298758df8c57e1e2db59661f629aef0a14943f26bf9918c8c77": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/srhealth.dll/a2664517f0000/srhealth.dll"
+    },
+    "eba71cd5f3e2c9f961714210a1c49dec12248c43240abc4c3f4371b379253a74": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/srhealth.dll/91f721b5f0000/srhealth.dll"
+    }
+  },
+  "storageqos.dll": {
+    "cb7505c61f4d19657ac0b25ed8ab41dd5f690cefc4c0fcab5af49797abb9ef4d": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/storageqos.dll/fffbba81db000/storageqos.dll"
+    },
+    "fa2b3a914e074c5760a4892f2d7020aac6256c20483671fcd3056331c5a34afc": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/storageqos.dll/015c7af3db000/storageqos.dll"
+    }
+  },
+  "storhealth.dll": {
+    "2f97948b8c6b0eb0cdc6b01dc017484126641b26a0ab441a3595392d85294f6d": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/storhealth.dll/2deb81b13b9000/storhealth.dll"
+    },
+    "be056b18f1825641f5700465399ec0ea9b7a9de1de5c8e499c2dfd1c3a033985": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/storhealth.dll/ca421c463b9000/storhealth.dll"
+    }
+  },
+  "storqoshealth.dll": {
+    "1d538d1835c01b0f6f8a77e3ba6cd3d3a079e4c037ecb7634dcbc1cb8e44c72f": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/storqoshealth.dll/ac3d5815d8000/storqoshealth.dll"
+    },
+    "a146ad548a67e5d852df8c229dc5d133d387f9967ef7b74ba03d34bf786cac7d": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/storqoshealth.dll/4a0cfbedd8000/storqoshealth.dll"
+    }
+  },
+  "sysmain.dll": {
+    "4c62002aee4096b4548f96b635787f0e6e70686526cf1233346e515c9812023d": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/sysmain.dll/bd0dc03ef9000/sysmain.dll"
+    }
+  },
+  "tapisrv.dll": {
+    "8c97bdef0650f766be0f1dd0cbda2febbb2fe3c71470a9ad57fda73dacaebb3d": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/tapisrv.dll/da56e4b542000/tapisrv.dll"
+    },
+    "c97df12214a9c1a8e68f520b58f6d4a6d748e80407dd6ef3a9ea55d9d1c65683": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/tapisrv.dll/0ebd0b1654000/tapisrv.dll"
+    }
+  },
+  "tcblaunch.exe": {
+    "deb91b6e8cd876294781a618a39e9d6b3449a665e3ddfee421564ffd83bfade9": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/tcblaunch.exe/302acd07e9000/tcblaunch.exe"
+    },
+    "ec55861a77babf66a047a6e5b70278b4cd47071a581d486db3c8acf8e5400372": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/tcblaunch.exe/6de027b6e9000/tcblaunch.exe"
+    }
+  },
+  "tcbloader.dll": {
+    "bb79f16e5c541240abf201fd9c2c2cdcdb066856c5e582490b5b71bda87c59b9": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/tcbloader.dll/e094765a3d000/tcbloader.dll"
+    },
+    "faf1e00e500baf2dc17e8a5e744e0dc896faec355336bd6a0805a985819d8281": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/tcbloader.dll/e094765a3d000/tcbloader.dll"
+    }
+  },
+  "tcpip.sys": {
+    "59057704d97e86f4eec6bed4f02a6ab558a8dd1ed4f484b7b1ac1f65b3824454": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/tcpip.sys/132608e631f000/tcpip.sys"
+    },
+    "9c07fffcb3258a909f6e436b3a0aa9a48bc8157b8b023445ad4e9c335af06795": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/tcpip.sys/f4a9d3c131f000/tcpip.sys"
+    }
+  },
+  "tellib.dll": {
+    "7b88404458d6088f6fc7f454ff149428c973c14c7583a1c792ee93e66528a753": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/tellib.dll/e90a9c77427000/tellib.dll"
+    },
+    "c1273ba00cbfe1cc9d1a93c3a2d75091d4710f1839c81233de447ca57c732994": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/tellib.dll/70ef91c6427000/tellib.dll"
+    }
+  },
+  "tsgclean.exe": {
+    "b1d7e881b5bc8e3a29f26aa1c029d145c53b27589d2471b9caa78d396225b61b": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/tsgclean.exe/f56ac35357000/tsgclean.exe"
+    },
+    "f14e4b0e822b266843d12a8b63391e75e58001ee123be953dfa14fdd6db315c5": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/tsgclean.exe/f56ac35357000/tsgclean.exe"
+    }
+  },
+  "tsgqec.dll": {
+    "59e3302700913fe0a42991ba27b443f4fe3409a0c28417b6ecfc58020c628b2b": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/tsgqec.dll/bc600b8211000/tsgqec.dll"
+    },
+    "6e1016f56dd9546ddee9c2a832a61ed7ee9a041768ff755de9082d97f92b1d61": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/tsgqec.dll/cf5c947b16000/tsgqec.dll"
+    },
+    "84fc828bfaf38a1d384f0fbb307ae5933d1e7e7bfcfa2a838f1785e34affeff8": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/tsgqec.dll/cf5c947b16000/tsgqec.dll"
+    },
+    "bc406c54788f4d5562b5ca0f9b0940d8e2d325de3259bfea83263c13e1b54ae9": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/tsgqec.dll/bc600b8211000/tsgqec.dll"
+    }
+  },
+  "tzautoupdate.dll": {
+    "30af101a6e75270b8fca83e797f9d79cd44c8a96cedc0580e6e8fdc30356d712": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/tzautoupdate.dll/6a01b4e01e000/tzautoupdate.dll"
+    },
+    "4df44fd4b2b8ee9a26b4299cbd7350d0d57dcf231eeae6c7606dd7e7d6519f29": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/tzautoupdate.dll/a809c2a51e000/tzautoupdate.dll"
+    },
+    "8c76e2e330fafe5f4e2c9a102df06f316c8e8d49b8d026a1ac54d3de88ac4591": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/tzautoupdate.dll/416eba6518000/tzautoupdate.dll"
+    },
+    "bb6e22798a5603f3e3dea3c5daede042bbdd5ad256c707961c10259c08c3fd3d": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/tzautoupdate.dll/ba76750618000/tzautoupdate.dll"
+    }
+  },
+  "tzres.dll": {
+    "2d7a85f58467e9747cbc0a5cf142b27037460f894dc3cd8a168d2e52ad3cf93f": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/tzres.dll/44ad47253000/tzres.dll"
+    },
+    "34b1bef05d75b80cbb50a423c621addecac56e3b50165e1bcade81c957d3a5db": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/tzres.dll/58e7313b3000/tzres.dll"
+    },
+    "38e43cb54358d14ff4a33ad6975b975d4455c0886e0764fed07c2227cb11099f": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/tzres.dll/58e7313b3000/tzres.dll"
+    },
+    "7ef4eaf44f971ef62e1f7e420d3f3fabc6cb26a286c574581ce6df348c5236d7": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/tzres.dll/44ad47253000/tzres.dll"
+    }
+  },
+  "udwm.dll": {
+    "10ad59c542457a25b1df47668d4a49986c63e60fce58d57b280033a9ec4a661c": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/udwm.dll/7acc318b10b000/udwm.dll"
+    },
+    "91f2d47d24a3a7bf60f1fd87f77ab02b56f54b01ad17546c4b3e2fdda550cd6f": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/udwm.dll/1c7346ca10b000/udwm.dll"
+    }
+  },
+  "usbhub3.sys": {
+    "0190b9364cfc507423b04e35a97cb8929994668084d5f8d36229d9bf21767353": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/usbhub3.sys/8c7dc976a8000/usbhub3.sys"
+    },
+    "69d5b248929812882dc47346b6eebc90defe2dadc9c903f351e8b886f3ac38d7": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/usbhub3.sys/1506e01aa8000/usbhub3.sys"
+    }
+  },
+  "user32.dll": {
+    "2ee5524b7b4a0279535201f5798ec922c36895ffbbc2df95cb8b2f754975963e": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/user32.dll/411ad2901a5000/user32.dll"
+    },
+    "498b8c91171e351dba300d798b22bb95b9a4954d0266ab70d38b49f86e0dfa76": {
+      "kb": [
+        "kb5033118"
+      ]
+    },
+    "6329dbd4380635f6c5845e7f9045faf396b39fbad9a31d5606a494104b500f82": {
+      "kb": [
+        "kb5032198"
+      ]
+    },
+    "b5e26264815bcb4a808fbb9f85c03cbd85f8d35e92d1743bc0006fc380c684fb": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/user32.dll/f7f649991a5000/user32.dll"
+    }
+  },
+  "usp10.dll": {
+    "8f41151825afb9101502de15b2366cd365924232ea085b51ab1f993a28c97f65": {
+      "kb": [
+        "kb5032198"
+      ]
+    },
+    "ffb58aa95ceb5df52fe90540ed9d97be32ce4dbad0d00a76dc978a1ee831eee3": {
+      "kb": [
+        "kb5033118"
+      ]
+    }
+  },
+  "version.dll": {
+    "77a21f8dd900d36f758ed55edae6fb17eecf45ceb163ec97265ea66ca3111708": {
+      "kb": [
+        "kb5033118"
+      ]
+    },
+    "c8f4748cbd937ef2256b574275f36ca9439334c44e5f96c8c1955f2ae03675d0": {
+      "kb": [
+        "kb5032198"
+      ]
+    }
+  },
+  "vmcompute.exe": {
+    "8fdb23cb5d5e3e4b4826d77b8602870589b7697e4103464a6027a37767d280f8": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/vmcompute.exe/97cc3c223e3000/vmcompute.exe"
+    },
+    "df9d7031e2c182c2bf6b178c553041d2ba88321d84f786246c892af556709ddb": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/vmcompute.exe/502b53c33e3000/vmcompute.exe"
+    }
+  },
+  "vmcomputeagent.exe": {
+    "d78e8003c618dd1ef93c4f34120d3e64cdcdd6ec0b265e18635291489cecc551": {
+      "kb": [
+        "kb5033118"
+      ]
+    },
+    "ed9dd148ac61a2de22b958c00f14790a91154ac5f06a706a1c770129d0fb5536": {
+      "kb": [
+        "kb5032198"
+      ]
+    }
+  },
+  "vmconnect.exe": {
+    "f9db49de8909bd9d920ac484b2c098b54073031cfc3dd05c6f40ff6078507293": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/vmconnect.exe/c833be3ace000/vmconnect.exe"
+    }
+  },
+  "vmms.exe": {
+    "80772b33840376e50071e81b1224d5cf95317c2bb757b912338e909aeb846f42": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/vmms.exe/012f0054eb0000/vmms.exe"
+    },
+    "a2db953a463cf50657750bcd92b819b6f10957e27e69ebd75234f20b1fe32c57": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/vmms.exe/365671eaeb0000/vmms.exe"
+    }
+  },
+  "watpcsp.dll": {
+    "92214ce588dc07001e57f326c868857da205f722c7a8768c383928a8b57700c8": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/watpcsp.dll/01a6aefd2f000/watpcsp.dll"
+    },
+    "b4fe7bae514b5b3ba9d118b542b8400eafca635345324b0892682ce70cb40e3f": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/watpcsp.dll/133469e437000/watpcsp.dll"
+    }
+  },
+  "wevtapi.dll": {
+    "b062703280ac0319348cefe8ae18516812f76a466f6b61cf283494c781cdf91b": {
+      "kb": [
+        "kb5032198"
+      ]
+    },
+    "c9a8163d9f2182ec5e684e0680911c3fae8ea6d3bc595d8b07d1eda6c38121ba": {
+      "kb": [
+        "kb5033118"
+      ]
+    }
+  },
+  "win32k.sys": {
+    "26ad6345b7128fdd025a835cb8ae4a120d962f4c72eeac8c9c8d2d7ab6ad7d55": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/win32k.sys/c23474a0aa000/win32k.sys"
+    },
+    "54613c7d58512a2c49815a457d030eecd4bbedaa88b6ca0a108f85e2ab7fd675": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/win32k.sys/e5d7c63f5f000/win32k.sys"
+    },
+    "718e44e494d6a27cc11ad6c19007310f7d0bbc105453e34acff1a0c6a52ead28": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/win32k.sys/c23474a0aa000/win32k.sys"
+    },
+    "aac23d0704e7c5bfbbaffe00d1373aad7fd6e063bf3875b80fbbae4eb0f33596": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/win32k.sys/e5d7c63f5f000/win32k.sys"
+    }
+  },
+  "win32kfull.sys": {
+    "56787a4fdb6b8f4cbb381927d662e887e0e24f3d346eb94667c9b8429a00d99b": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/win32kfull.sys/132c208b2b3000/win32kfull.sys"
+    },
+    "a19b96773c398db61ebeac3b196fbd1b305d99d92f1ccd6bb3bbcb71bb15f514": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/win32kfull.sys/5ffc8e933ae000/win32kfull.sys"
+    },
+    "b29ce4df53c0f1ecfec514fc45e3f4d3ba9a4d09304ae9af52c26cdda62fc1bf": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/win32kfull.sys/7ce4a45a2b3000/win32kfull.sys"
+    },
+    "fd655e68881f01dc002efcde9860b5d2312a9172f9e24e474753ef703c9084f1": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/win32kfull.sys/d120b3d63ae000/win32kfull.sys"
+    }
+  },
+  "win32u.dll": {
+    "50dc2b52c4a02bdbcafe4105ebe668d2ba8defd0b0d980f052c04658713a0a1b": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/win32u.dll/2979174f26000/win32u.dll"
+    },
+    "751786b3a86f4def903f5205d2f3b35c97b14a0d63f47562d81964a7107bdd88": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/win32u.dll/2979174f26000/win32u.dll"
+    },
+    "d94631acb510494e967124a6238cc1b490d0a6735cc704ca9e3a04f29eb0a1ff": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/win32u.dll/af8623271a000/win32u.dll"
+    },
+    "fef122ed36ef07cc4deb0681f2a0d600a663f5d91f2b7b25895efdc980d4dbe2": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/win32u.dll/af8623271a000/win32u.dll"
+    }
+  },
+  "windows.media.protection.playready.dll": {
+    "0ced690e5d409a72ef4089a994679899f8ff2889a2f2d06b8f7e052836560bab": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/windows.media.protection.playready.dll/c57b832b880000/windows.media.protection.playready.dll"
+    },
+    "3bf2678e49e3795d64f11ebf0782c261db313a4a634fc2d30f215208bbd65675": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/windows.media.protection.playready.dll/c77f421d9df000/windows.media.protection.playready.dll"
+    },
+    "84c4dba28766c16b7cfb374e363f7321c4ab5cc59a62c48940b9db5a636da181": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/windows.media.protection.playready.dll/940cbca99df000/windows.media.protection.playready.dll"
+    },
+    "9dadbb04906911f8266a06960087ab479087d224f0ce8f602febc7c83f0eca13": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/windows.media.protection.playready.dll/2145e82987e000/windows.media.protection.playready.dll"
+    }
+  },
+  "windows.ui.xaml.dll": {
+    "01c1203cc81681d7d8bbae41fa9788251ee5400c041b586889d3992121b2061d": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/windows.ui.xaml.dll/a4d3ab30e5f000/windows.ui.xaml.dll"
+    },
+    "0e7301ec98c1b7845747dcbd1e22ef1f02300467bfcc0520f1629a653463fc09": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/windows.ui.xaml.dll/2fdd074711da000/windows.ui.xaml.dll"
+    },
+    "45b47d447e1c6ab255990959db7e4cbcc4365ab23c89950083bd383d1346d872": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/windows.ui.xaml.dll/d6be91bb11d9000/windows.ui.xaml.dll"
+    },
+    "bb7884fc529b631f0eb5d8663188146df8a79459eaae4b144badff55ed68fb3d": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/windows.ui.xaml.dll/ce40e04ae5f000/windows.ui.xaml.dll"
+    }
+  },
+  "windows.ui.xaml.resources.common.dll": {
+    "217e88d926a3dfddcf506f3d2456b7ec36b1bad56ac535d2d705be6e5647d9b5": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/windows.ui.xaml.resources.common.dll/985b1f0fd000/windows.ui.xaml.resources.common.dll"
+    },
+    "dc088423142ac19a235dcd2f2fa9e936edacb399943de8ac0ae961fbeb3446b6": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/windows.ui.xaml.resources.common.dll/985b1f0fd000/windows.ui.xaml.resources.common.dll"
+    }
+  },
+  "winlogon.exe": {
+    "2c1482a3aeeaf2a573c5a685c5ced77729ee96e79eddb0794df3820bc8753cc2": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/winlogon.exe/9f1f4cdfda000/winlogon.exe"
+    },
+    "9d489ee4ffd8f16809e34df9f36574f89662b1c6e76df7c86f485b0806428ccb": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/winlogon.exe/992f1fbbda000/winlogon.exe"
+    }
+  },
+  "winmm.dll": {
+    "6f77d18d7b3d7c4cb378d3d28744be004c973b37d0f929fa310aaae44cdb3948": {
+      "kb": [
+        "kb5033118"
+      ]
+    },
+    "e4b736ef37d04d1348d82f83e3daa5dd8eafc81b26fe1ebf028bf9fdaf5e80d5": {
+      "kb": [
+        "kb5032198"
+      ]
+    }
+  },
+  "winresume.exe": {
+    "b88b4e24467e15d383478b397c5b5128a4ca395d0cdf820b2cb51ff27395171a": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/winresume.exe/d528f4e516d000/winresume.exe"
+    },
+    "ba61cdea1b6ea1d52b6cd27b880936e55ddbf98fbc64630dc8d83b9b849488d5": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/winresume.exe/960ef1b616d000/winresume.exe"
+    }
+  },
+  "winspool.drv": {
+    "282d62bc5a4ea25f7d4f6b6b4d4c499c62470a636d5c3ba07d675be64434ce84": {
+      "kb": [
+        "kb5033118"
+      ]
+    },
+    "bd2948c6afea1e297589f2736c49ec4efdd530ba39c7b32add6f146021ec3364": {
+      "kb": [
+        "kb5032198"
+      ]
+    }
+  },
+  "wslapi.dll": {
+    "b364c9f9e1f27c084139308c411689dae9c80041d34eb155172cd46348966f8c": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/wslapi.dll/edb63a4453000/wslapi.dll"
+    },
+    "d514d7f88f159ae551a594d66e6a0c77dc9b801013c0ed6b2b7bca301c28350c": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/wslapi.dll/a24091b053000/wslapi.dll"
+    }
+  },
+  "wslclient.dll": {
+    "6cbf7236a16d99b5994adec5b0677cec907e98d812f25695d89177a7bcb48ed3": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/wslclient.dll/6c61a65567000/wslclient.dll"
+    },
+    "e65380fd1af67b13199c143268f9c2cc910f16b1a0f39adc9cd47d5a8a07d6de": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/wslclient.dll/4e81287a67000/wslclient.dll"
+    }
+  },
+  "wsp_fs.dll": {
+    "12201cf94c02eb3a12ed0cae38950051555e60448f17c7b928a77bf437165634": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/wsp_fs.dll/40c397cc1ee000/wsp_fs.dll"
+    },
+    "1daad64345fc51e8c784802d0bde39d1c1791e93312c9ff4388b08b44bb7aec5": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/wsp_fs.dll/5b5e498a187000/wsp_fs.dll"
+    },
+    "c936a534bae58a47972cea2e75ffaddc94f15e3480b3e27f4f9811b937433991": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/wsp_fs.dll/69427ff91ee000/wsp_fs.dll"
+    },
+    "fd2a285707beb09fdef3cac52259f8b4ae3200234300d6ee1e6ee9a30d6eba0b": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/wsp_fs.dll/4d2c5bc5187000/wsp_fs.dll"
+    }
+  },
+  "wsp_health.dll": {
+    "0d06573b846d7b5165e37c5c46e7859ac32acec6c34219bc93f46f98ca2570af": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/wsp_health.dll/f93c6dd1157000/wsp_health.dll"
+    },
+    "3333c6c37a1fc83834c51a3954ae6a4896b6cb0ec2605ecd9968efa78a7bba5a": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/wsp_health.dll/149493b6157000/wsp_health.dll"
+    },
+    "9333d2f85c353d8ab323c584b0d936d6c94a7801550beebcced6867a3f3e26e5": {
+      "kb": [
+        "kb5032198"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/wsp_health.dll/3c1ea9431b3000/wsp_health.dll"
+    },
+    "f1ad978cf332db6d33f0b3f4ed57d004a738615987447f4fa0659a99d6629181": {
+      "kb": [
+        "kb5033118"
+      ],
+      "link": "https://msdl.microsoft.com/download/symbols/wsp_health.dll/ce6042b21b3000/wsp_health.dll"
+    }
+  },
+  "wtsapi32.dll": {
+    "85b3ec9bd32fad1d4c5bf322222414aab7e469b20b5aa4cad0b0ad9e4d5a2551": {
+      "kb": [
+        "kb5033118"
+      ]
+    },
+    "edb7cc7376bc7d4fd590bb508c6c10d3f188fabbdca8c94c8428dc8efd18cf34": {
+      "kb": [
+        "kb5032198"
+      ]
+    }
+  },
+  "xinput1_4.dll": {
+    "5411016cd324eb0eeba7002a4e0565721774545971c2949c77ffb308b33716ac": {
+      "kb": [
+        "kb5033118"
+      ]
+    },
+    "f6b0a79d66d1e1fc1888016c7060ef2f29319157ca27a00833c74fdf22bcad2a": {
+      "kb": [
+        "kb5032198"
+      ]
+    }
+  }
+}
